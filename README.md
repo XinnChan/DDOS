@@ -15,7 +15,7 @@ _______________
 	$ apt update -y && apt upgrade -y
 	$ pkg install git
 	$ pkg install python2
-	$ git clone https://github.com/WH1T3-E4GL3/eagle-dos.git
+	$ git clone https://github.com/XinnChan/eagle-dos.git
 	$ cd eagle-dos.py
 	$ git pull
 	$ python eagle-dos.py
@@ -25,8 +25,8 @@ _______________
 Tool used for dos attack.
 Tool devoloped by white eagle.
 
-Github   : https://github.com/WH1T3-E4GL3
-Telegram : https://t.me/Ka_KsHi_HaTaKe
+Github   : https://github.com/XinnChan
+YouTube : https://youtube.com/@xinnclay
 	
 
 	
