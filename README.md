@@ -16,9 +16,9 @@ _______________
 	$ pkg install git
 	$ pkg install python2
 	$ git clone https://github.com/XinnChan/eagle-dos.git
-	$ cd eagle-dos.py
+	$ cd DDOS.py
 	$ git pull
-	$ python eagle-dos.py
+	$ python DDOS.py
  
 
 
