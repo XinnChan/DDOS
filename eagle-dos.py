@@ -1,4 +1,4 @@
-#Author WHITE L'
+#Powered By XinnClay Modders'
 import socket
 import os
 import random
@@ -13,24 +13,19 @@ bytes = random._urandom(3500)
 
 os.system("clear")
 print(" ")
-print("                              $$\                       $ \                     ")
-print("                              $$ |                      $$ |                    ")
-print(" $$$$$$\   $$$$$$\   $$$$$$\  $$ | $$$$$$\         $$$$$$$ | $$$$$$\   $$$$$$$\ ")
-print("$$  __$$\  \____$$\ $$  __$$\ $$ |$$  __$$\       $$  __$$ |$$  __$$\ $$  _____|")
-print("$$$$$$$$ | $$$$$$$ |$$ /  $$ |$$ |$$$$$$$$ |      $$ /  $$ |$$ /  $$ |\$$$$$$\  ")
-print("$$   ____|$$  __$$ |$$ |  $$ |$$ |$$   ____|      $$ |  $$ |$$ |  $$ | \____$$\ ")
-print("\$$$$$$$\ \$$$$$$$ |\$$$$$$$ |$$ |\$$$$$$$\       \$$$$$$$ |\$$$$$$  |$$$$$$$  |")
-print(" \_______| \_______| \____$$ |\__| \_______|       \_______| \______/ \_______/ ")
-print("                    $$\   $$ |                                                  ")
-print("                    \$$$$$$  |                                                  ")
-print("                     \______/                                                   ")
+print(" __  ___              ____ _             ")
+print(" \ \/ (_)_ __  _ __  / ___| | __ _ _   _ ")
+print("  \  /| | '_ \| '_ \| |   | |/ _` | | | |")
+print("  /  \| | | | | | | | |___| | (_| | |_| |")
+print(" /_/\_\_|_| |_|_| |_|\____|_|\__,_|\__, |")
+print("                                   |___/ ")
 print()
-print("[" + B + "" + R + "#" + N + "] " + B + "" + R + "Author : White Eagle" + N + "   Eagle Dos From - " + B + "" + R + "WH1T3" + N)
+print("[" + B + "" + R + "#" + N + "] " + B + "" + R + "Author : XinnClay Modders" + N + "   YouTube - " + B + "" + R + "XinnClay Modders" + N)
 print()
 print("\033[32m================================================================\033[0m")
-print("\033[32mTool devoloped : white-eagle\033[0m")
-print("\033[33mGithub 	       : https://github.com/WH1T3-E4GL3/\033[0m")
-print("\033[33mTelegram       : https://t.me/Ka_KsHi_HaTaKe\033[0m")
+print("\033[32mTool devoloped : XinnClay Modders\033[0m")
+print("\033[33mWa      	    : https://wa.me/6282143067466/\033[0m")
+print("\033[33mYoutube         : https://youtube.com/@xinnclay\033[0m")
 print("\033[32m================================================================\033[0m")
 print()
 
