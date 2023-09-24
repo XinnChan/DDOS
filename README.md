@@ -13,9 +13,9 @@ You can attack to any network or to an android phone,a computer,a router or a we
 commands
 _______________
 	$ apt update -y && apt upgrade -y
-	$ pkg install git
-	$ pkg install python2
-	$ git clone https://github.com/XinnChan/eagle-dos.git
+	$ apt install git
+	$ apt install python2
+	$ git clone https://github.com/XinnChan/DDOS.git
 	$ cd DDOS.py
 	$ git pull
 	$ python DDOS.py
