@@ -16,7 +16,7 @@ _______________
 	$ apt install git
 	$ apt install python2
 	$ git clone https://github.com/XinnChan/DDOS.git
-	$ cd DDOS.py
+	$ cd DDOS
 	$ git pull
 	$ python DDOS.py
  
