@@ -24,8 +24,8 @@ print("[" + B + "" + R + "#" + N + "] " + B + "" + R + "Author : XinnClay Modder
 print()
 print("\033[32m================================================================\033[0m")
 print("\033[32mTool devoloped : XinnClay Modders\033[0m")
-print("\033[33mWa      	    : https://wa.me/6282143067466/\033[0m")
-print("\033[33mYoutube         : https://youtube.com/@xinnclay\033[0m")
+print("\033[33mTele    	    : https://t.me/XinnClay_Fixxed\033[0m")
+print("\033[33mCh Tele         : https://t.me/XinnClayFixxed\033[0m")
 print("\033[32m================================================================\033[0m")
 print()
 
